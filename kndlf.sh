@@ -12,7 +12,7 @@
 # You can also move the script into the /usr/bin directory
 #   $ mv knldf.sh /usr/bin/knldf
 #   $ chmod +x /usr/bin/knldf
-#   $ knldf [-x] [-i]
+#   $ knldf
 #
 if [ ! -f /usr/bin/kindlegen ]; then
   echo "kindlegen is not installed, please dowload it."
