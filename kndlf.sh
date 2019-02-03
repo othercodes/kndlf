@@ -15,7 +15,7 @@
 #   $ knldf
 #
 if [ ! -f /usr/bin/kindlegen ]; then
-  echo "kindlegen is not installed, please dowload it."
+  echo "kindlegen is not installed, please download it."
   echo "url: amazon.com/kindleformat/kindlegen"
   exit -1
 done
